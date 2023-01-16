@@ -1,0 +1,3 @@
+An analysis of factors affecting software reliability. Xuemei Zhang and Hoang Pham
+
+Ensuring Software Reliability By Ann Marie - Chapter FIVE Factors that affects software reliability
