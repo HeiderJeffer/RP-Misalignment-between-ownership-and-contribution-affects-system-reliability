@@ -1,3 +1,11 @@
 An analysis of factors affecting software reliability. Xuemei Zhang and Hoang Pham
 
 Ensuring Software Reliability By Ann Marie - Chapter FIVE Factors that affects software reliability
+
+
+IMPORTANCE OF ENVIRONMENTAL FACTORS AFFECTING SOFTWARE RELIABILITY - A. LOGANATHAN AND R. JEROMIA MUTHURAJ
+
+The Relation between Software Development Methodologies and Factors Affecting Software Reliability V. Yakovyna, M. Seniv, I. Symets
+
+
+A comparison analysis of environmental factors affecting software reliability - Mengmeng Zhu, Xuemei Zhang, Hoang Pham
