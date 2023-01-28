@@ -1,4 +1,4 @@
-# BTH-Project
+# Blekinge Institute of Technology (BTH) -Project
 # TITLE: Misalignment between ownership and contribution affects system reliability
 # PROBLEM STATEMENT	
 "OCAM (Ownership and Contribution Alignment Model) is a tool for detecting the misalignment between ownership and contribution. It is the first step towards investigating the impact it might have on the faster accumulation of Technical Debt [Zabardast and Gonzalez-Huerta, 1, 2022]". Besides studying the TD, the OCAM didn't show any factors impacted by the misalignment between ownership and contribution, such as non-behavioral requirements and the system's reliability. The misalignment strike system reliability is a problem, not a feature, that needs to be addressed and answered.
