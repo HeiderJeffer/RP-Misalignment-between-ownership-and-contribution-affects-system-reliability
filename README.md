@@ -7,6 +7,9 @@ The future research question addressed in this proposal is RQ: How does misalign
 
 # RESEARCH APPROACH	
 We have a system with a misalignment problem between ownership and contribution. The misalignment problem strikes the system's reliability. A misalignment that affects system reliability is a misalignment between ownership and contribution that affects the quality of a system from performing consistently well.
+
+![alt text](https://github.com/HeiderJeffer/BTH-Project/blob/main/image/Screenshot%202023-01-13%20211050.png)
+
 -	Data Collection Steps (Wang Xiaofeng, 2379, 2016):
 -	Import 193 cases of misalignment from BTH researchers [OCAM model has identified 193 cases of misalignment (Zabardast and Gonzalez-Huerta, 3, 2022)].
 - Apply inclusion/exclusion criteria.
