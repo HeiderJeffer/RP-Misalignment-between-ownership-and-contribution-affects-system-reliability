@@ -22,4 +22,5 @@ We have a system with a misalignment problem between ownership and contribution.
 
 The overall data collection and analysis process employed in the study showing in Fig.1 UML diagram and explained in detail in the following text.
 
+Fig.1 UML diagram - Data collection and analysis steps and results
 ![alt text](https://github.com/HeiderJeffer/BTH-Project/blob/main/image/TS%202%20Diagram%20BTH%20Ph.D..drawio.png)
