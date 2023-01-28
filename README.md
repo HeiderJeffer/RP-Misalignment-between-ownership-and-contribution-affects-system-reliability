@@ -17,3 +17,4 @@ We have a system with a misalignment problem between ownership and contribution.
 - Coding the data to identify types of misalignment factors affects system reliability.
 - Grouping misalignment factors into identical categories based on (How they affected the system's reliability).
 The overall data collection and analysis process employed in the study showing in Fig.1 UML diagram and explained in detail in the following text.
+![alt text](https://github.com/HeiderJeffer/BTH-Project/blob/main/image/TS%202%20Diagram%20BTH%20Ph.D..drawio.png)
