@@ -103,13 +103,13 @@ Results Collection F: # misalignments factors grouped into major categories. In 
 # Appendix
 ## Quantitative analysis
 
-
+### Everythings Survival function  for OCAM Model
 ![alt text](https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/blob/main/Quantitative%20analysis/Statistics%20-%20Heider%20Jeffer/1.jpg)
 
-
+### Accuracy and precision for OCAM Model
 ![alt text](https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/blob/main/Quantitative%20analysis/Statistics%20-%20Heider%20Jeffer/2.jpg)
 
-
+### Maximum likelihood for OCAM Model
 ![alt text](https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/blob/main/Quantitative%20analysis/Statistics%20-%20Heider%20Jeffer/3.jpg)
 
 
