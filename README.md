@@ -98,3 +98,19 @@ Step 7. Group misalignment factors in Collection E
 
 Results Collection F: # misalignments factors grouped into major categories. In this step, we will classify those factors into identical categories. The categorization process is based on how the misalignment factor affects system reliability.
 
+
+
+# Appendix
+## Quantitative analysis
+
+
+![alt text](https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/blob/main/Quantitative%20analysis/Statistics%20-%20Heider%20Jeffer/1.jpg)
+
+
+![alt text](https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/blob/main/Quantitative%20analysis/Statistics%20-%20Heider%20Jeffer/2.jpg)
+
+
+![alt text](https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/blob/main/Quantitative%20analysis/Statistics%20-%20Heider%20Jeffer/3.jpg)
+
+
+
