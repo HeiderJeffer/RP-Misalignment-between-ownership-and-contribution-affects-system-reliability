@@ -5,6 +5,14 @@ http://www.gonzalez-huerta.net/wp-content/uploads/2022/05/ICSANEMI2021_developer
 
 other aspects can be impacted by the misalignment of ownership and contribution. The proposal must also include a brief design of a research study.
 
+## Task 1 Abstract by Heider Jeffer
+
+https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/blob/main/Task%201%20Abstract.pdf
+
+## Task 2 Research Proposal by Heider Jeffer
+
+https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/blob/main/Task%202%20Research%20Proposal.pdf
+
 
 # TITLE: Misalignment between ownership and contribution affects system reliability
 # PROBLEM STATEMENT	
