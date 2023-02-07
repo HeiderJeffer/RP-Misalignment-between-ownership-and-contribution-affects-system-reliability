@@ -98,7 +98,9 @@ Step 7. Group misalignment factors in Collection E
 
 Results Collection F: # misalignments factors grouped into major categories. In this step, we will classify those factors into identical categories. The categorization process is based on how the misalignment factor affects system reliability.
 
+# Plan of Work and Time Schedule
 
+![alt text](https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/blob/main/image/PHD%20PLAN%20OF%20WORK%20und%20TIME%20SCHEDULE.drawio.png)
 
 # Appendix
 ## Quantitative analysis
