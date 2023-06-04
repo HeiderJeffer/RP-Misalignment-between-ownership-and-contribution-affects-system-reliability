@@ -1,4 +1,10 @@
 # BLEKINGE INSTITUTE OF TECHNOLOGY (BTH) – PH.D. PROJECT
+
+
+ <body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/" alt = "Visitors-Counter"/>
+</body>
+
 - Developer Heider Jeffer
 - Supervisor: Prof. Javier Gonzalez Huerta, and Prof. Daniel Mendez Fernandez
 
