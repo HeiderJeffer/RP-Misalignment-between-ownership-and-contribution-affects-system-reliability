@@ -1,12 +1,13 @@
-# BLEKINGE INSTITUTE OF TECHNOLOGY (BTH) – PH.D. PROJECT
+# TITLE: Misalignment between ownership and contribution affects system reliability
 
+Developer Heider Jeffer
+------------------------------
 
  <body>
 <img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/" alt = "Visitors-Counter"/>
 </body>
 
-Developer Heider Jeffer
-------------------------------
+
 - Supervisor: Prof. Javier Gonzalez Huerta, and Prof. Daniel Mendez Fernandez
 
  a brief project proposal elaborating further work on the paper:
