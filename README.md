@@ -1,7 +1,30 @@
 # TITLE: Misalignment between ownership and contribution affects system reliability
-
-Developer Heider Jeffer
+by Heider Jeffer
 ------------------------------
+
+
+
+Keywords:
+Ownership,
+Contribution,
+System reliability,
+Misalignment,
+Organizational structure,
+Responsibility allocation,
+Stakeholder engagement,
+Performance metrics,
+Accountability,
+Resource management,
+Collaborative systems,
+Team dynamics,
+Reliability engineering,
+Governance,
+Organizational behavior,
+Incentive structures,
+System performance,
+Role clarity,
+Decision-making processes,
+Risk management
 
  <body>
 <img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/" alt = "Visitors-Counter"/>
