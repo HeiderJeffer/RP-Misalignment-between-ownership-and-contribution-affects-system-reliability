@@ -30,9 +30,6 @@ Risk management
 <img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Blekinge-Institute-of-Technology-BTH-Ph.D.-Project/" alt = "Visitors-Counter"/>
 </body>
 
-
-- Supervisor: Prof. Javier Gonzalez Huerta, and Prof. Daniel Mendez Fernandez
-
  a brief project proposal elaborating further work on the paper:
  
 http://www.gonzalez-huerta.net/wp-content/uploads/2022/05/ICSANEMI2021_developer_contribution__Camera_Ready_.pdf
